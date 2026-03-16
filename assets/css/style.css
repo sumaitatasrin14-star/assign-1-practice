@@ -238,3 +238,45 @@
     color:#6b7280;
     font-size:10px;
 }
+.footer{
+    background:#02263c;
+    color:white;
+    padding:60px 10%;
+}
+
+.footer-top{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+}
+
+.logo{
+    width:160px;
+}
+
+.footer-right h3{
+    margin-bottom:15px;
+    font-size:20px;
+}
+
+.social-icons{
+    display:flex;
+    gap:15px;
+}
+
+.social-icons img{
+    width:28px;
+    height:28px;
+}
+
+hr{
+    border:none;
+    border-top:1px solid rgba(255,255,255,0.2);
+    margin:40px 0 20px;
+}
+
+.copyright{
+    text-align:center;
+    color:#cbd5e1;
+    font-size:10px;
+}
