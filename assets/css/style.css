@@ -240,7 +240,6 @@
 }
 .footer{
     background:#02263c;
-    color:white;
     padding:60px 10%;
 }
 
@@ -254,12 +253,14 @@
     width:160px;
 }
 
-.footer-right h3{
+.footer-right h4{
     margin-bottom:15px;
-    font-size:20px;
+    color:white;
+    font-size:15px;
 }
 
 .social-icons{
+    color: white;
     display:flex;
     gap:15px;
 }
