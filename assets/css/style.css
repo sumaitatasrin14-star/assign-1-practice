@@ -195,3 +195,46 @@
 .feature img{
     width:22px;
 }
+.cta{
+    padding:80px 10%;
+}
+
+.cta-box{
+    background:#f3f4f6d1;
+    border-radius:16px;
+    text-align:center;
+    padding:50px 20px;
+}
+
+.cta-box h1{
+    font-size:38px;
+    margin-bottom:15px;
+    color:#0f2a44;
+}
+
+.subtitle{
+    color:#6b7280;
+    font-size:10px;
+    line-height:1.6;
+    margin-bottom:20px;
+}
+
+.cta-btn{
+    background:#3f8f63;
+    color:white;
+    border:none;
+    padding:14px 28px;
+    font-size:15px;
+    border-radius:6px;
+    cursor:pointer;
+    margin-bottom:20px;
+}
+
+.cta-btn:hover{
+    background:#357a54;
+}
+
+.small{
+    color:#6b7280;
+    font-size:10px;
+}
